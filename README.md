@@ -11,3 +11,8 @@
 	4. Inicie o servidor: `npm start`
 	5. Teste diretorio main
 	6. Teste diretorio protec
+
+	## Instruções de Deploy v2
+	1. Executar script `deploy-v2.sh`
+	2. Verificar logs em `/var/log/deploy.log`
+	3. Validar endpoints de saúde
