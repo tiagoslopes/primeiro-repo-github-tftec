@@ -17,3 +17,11 @@
 	2. Verificar logs em `/var/log/deploy.log`
 	3. Validar endpoints de saúde
 	4. Validar endpoints de saida
+
+
+	## Configurações do Sistema
+	- Ambiente: produção
+	- Porta: 8080
+	- Timeout: 30s
+	- Max connections: 1000
+
