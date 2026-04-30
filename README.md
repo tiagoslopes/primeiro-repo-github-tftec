@@ -24,4 +24,4 @@
 	- Porta: 8080
 	- Timeout: 30s
 	- Max connections: 1000
-
+	- Health check: /health
