@@ -16,6 +16,8 @@
 	1. Executar script `deploy-v2.sh`
 	2. Verificar logs em `/var/log/deploy.log`
 	3. Validar endpoints de saúde
+	4. Validar endpoints de saida
+
 
 	## Configurações do Sistema
 	- Ambiente: produção
@@ -28,3 +30,5 @@
 	- Alertas automatizados por email  
 	- Logs centralizados
 	- Health checks automáticos
+	- Health check: /health
+
